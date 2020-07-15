@@ -19,3 +19,19 @@ h1 {
 .header {
     background-color: #999999;
 }
+h2 {
+    font-family: Consolas;
+    font-size: 26px;
+    font-weight: 100;
+    text-align: center;
+    color: #ffffff;
+    width: 700px;
+    margin: 0 auto 0 auto;
+}
+h2 strong {
+    font-weight: 900;
+}
+.tagline {
+    background-color: #000000;
+    padding: 20px 0 20px 0;
+}

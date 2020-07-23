@@ -47,14 +47,14 @@ p {
   background-color: #000000;
   padding: 20px 0 20px 0;
 }
-.projects, .badges {
+.projects, .badges, .skills {
   width: 700px;
   margin: 0 auto;
 }
-.projects ul, .badges ul {
+.projects ul, .badges ul, .skills ul {
   list-style-type: none;
 }
-.projects li, .badges li {
+.projects li, .badges li, .skills li {
   margin-bottom: 10px;
 }
 .badges img {
@@ -63,4 +63,14 @@ p {
 }
 .badges p {
   padding-top: 10px;
+}
+.skills li {
+  font-family: Consolas;
+  font-weight: bold;
+  font-size: 14px;
+  background: #333333;
+  color: #eeeeee;
+  display: inline;
+  padding: 8px 8px 8px 8px;
+  margin-right: 10px;
 }

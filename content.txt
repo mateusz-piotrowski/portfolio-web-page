@@ -6,12 +6,11 @@ I like learn new things, meet new technologies, improve my computers, add featur
 Projects:
 - Recipe World
 
-Front-End Developer
-WebFocus Developer
-C# Developer
-Hardware Enginner
-Software Developer
-Systems Administrator
+-HTML
+-CSS
+-Java
+-C#
+-WebFocus
+-Git
 
 mateusz.piotrowski@mail.com
-  

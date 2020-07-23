@@ -39,17 +39,28 @@ h3 {
   border-bottom: 1px solid #555555;
   margin: 20px 0 20px 0;
 }
+p {
+  font-family: Consolas;
+  font-size: 18px;
+}
 .tagline {
   background-color: #000000;
   padding: 20px 0 20px 0;
 }
-.projects {
+.projects, .badges {
   width: 700px;
   margin: 0 auto;
 }
-.projects ul {
+.projects ul, .badges ul {
   list-style-type: none;
 }
-.projects li {
+.projects li, .badges li {
   margin-bottom: 10px;
+}
+.badges img {
+  float: left;
+  padding-right: 10px;
+}
+.badges p {
+  padding-top: 10px;
 }

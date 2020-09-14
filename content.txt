@@ -1,7 +1,7 @@
 Mateusz Piotrowski
 
 I'm Hardware Enginner, Software Developer and Systems Administrator.
-I like learn new things, meet new technologies, improve my computers, add features to my apps and connect them with systems.
+I like learn new things and meet new technologies.
 
 Projects:
 - Recipe World

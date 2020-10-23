@@ -68,6 +68,13 @@ a:hover {
 .projects li, .badges li, .skills li {
   margin-bottom: 10px;
 }
+.projects img {
+  float: left;
+  padding-right: 10px;
+}
+.projects p {
+  padding-top: 35px;
+}
 .badges img {
   float: left;
   padding-right: 10px;

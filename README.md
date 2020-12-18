@@ -1,12 +1,12 @@
-# Mateusz Piotrowski blog
+# Mateusz Piotrowski - the page on the GitHub
 
 ## Description
 
-This project is contain Mateusz Piotrowski blog files.
+This project contains the page on GitHub of  Mateusz Piotrowski.
 
 ## Motivation
 
-This blog has been started to develop myself and share knowledge with community.
+This page has been started to share information about myself with the community.
 
 ## Contributor
 
